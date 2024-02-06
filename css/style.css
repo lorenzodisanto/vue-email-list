@@ -1,0 +1,8 @@
+li {
+  list-style: none;
+  background-color: burlywood;
+  padding: 15px;
+  margin-top: 10px;
+  width: 500px;
+  border-radius: 25px;
+}
